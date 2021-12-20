@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE User SYSTEM "user.xsd">
+    <User>
+        <Name>Niraj Karki</Name>
+        <Address>
+            <District>Kathmandu<District>
+            <Location>Swyambhu<Location>
+        </Address>
+        <User>
+
+        

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BOOKS SYSTEM "books.dtd">
+    <books>
+        <book isbn="56478">
+            <name>Web Tec</name>
+            <author>
+                <author_name>Sugam Poudel<author_name>
+                <email>sugam@gmail.com<email>
+            </author>
+            <page>200</page>
+            <price currency="npr">450</price>
+        </book>
+        <book isbn="8986">
+            <name>XML</name>
+            <author>
+                <author_name>Niraj Karki</author_name>
+                <email>niraj@gmail.com<email>
+            </author>
+            <author>
+                <author_name>Saban Magar<author_name>
+                <email>saban@gmail.com<email>
+            </author>
+            <page>500<page>
+            <price currency="ustd">786</price>
+        <book>
+    </books>
+    
+    
